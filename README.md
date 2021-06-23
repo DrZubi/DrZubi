@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![Visitor Count](https://profile-counter.glitch.me/DrZubi/count.svg)
+<!-- *<p align="right">&#42;In millions</p>* !-->
+
+
+
+
 <!--
 **DrZubi/DrZubi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://komarev.com/ghpvc/?username=your-github-username)s
+
