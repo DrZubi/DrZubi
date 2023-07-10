@@ -1,13 +1,9 @@
 # Hi there 👋 
-
 Welcome to my GitHub! Feel free to connect with via LinkedIn. Let's talk code! 
 
 ## Profile Views
-<p align="center" width="100%">
 ![Visitor Count](https://profile-counter.glitch.me/DrZubi/count.svg)
 
-![Visitor Count](https://profile-counter.glitch.me/DrZubi/count.svg)
-</p>
 
 - 🚀 I mostly program in Python, R, and SQL
 - 📈 Tableau and Microsoft Power BI Expert
