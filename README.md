@@ -1,4 +1,14 @@
+<div align="center">
+
+[![][]
+
+**Personal Website**  
+[ [See Website ↗︎][https://drzubi.github.io/PersonalWebsite/] ]
+  
+
+<div align="left">
 # Hi there 👋 
+
 Welcome to my GitHub account, where innovation meets passion! I am thrilled to share my coding journey with you and showcase my projects and contributions in the world of software development.
 
 As you explore my repositories, you will uncover a diverse collection of projects that reflect my curiosity, dedication, and growth as a developer. From web applications to machine learning models, I have ventured into various domains, constantly seeking new challenges and opportunities to expand my skills.
@@ -14,7 +24,7 @@ Together, let's push boundaries, inspire others, and make a lasting impact in th
 ## Profile Views
 ![Visitor Count](https://profile-counter.glitch.me/DrZubi/count.svg)
 
-
+## Quick Facts
 - 🚀 I mostly program in Python, R, and SQL
 - 📈 Tableau and Microsoft Power BI Expert
 - 🌱 Currently learning Rust Programming
