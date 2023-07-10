@@ -1,11 +1,7 @@
 ![alt text](Logo.PNG)
-
-
 <div align="center">
   
-## **[ [See Website ↗︎][https://drzubi.github.io/PersonalWebsite/] ]**
-  
-
+**[[See Website ↗︎](https://drzubi.github.io/PersonalWebsite/)]**
 <div align="left">
 
 ## Hi there 👋 
