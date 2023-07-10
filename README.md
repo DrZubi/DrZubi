@@ -1,13 +1,14 @@
+![alt text](Logo.PNG)
+
+
 <div align="center">
-
-[![][]
-
-**Personal Website**  
-[ [See Website ↗︎][https://drzubi.github.io/PersonalWebsite/] ]
+  
+## **[ [See Website ↗︎][https://drzubi.github.io/PersonalWebsite/] ]**
   
 
 <div align="left">
-# Hi there 👋 
+
+## Hi there 👋 
 
 Welcome to my GitHub account, where innovation meets passion! I am thrilled to share my coding journey with you and showcase my projects and contributions in the world of software development.
 
