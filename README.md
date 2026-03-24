@@ -14,11 +14,11 @@ I’m interested in building systems that are useful, scalable, and maintainable
 If something here is helpful to you, feel free to use it or reach out.
 ---
 ## Quick Facts
-- 🚀 Primarily working in Python, R, and SQL
-- 🎓 B.S. in Industrial Engineering — Purdue University
+- 🚀 Daily data science practice using Python, SQL, and cloud tools (AWS, Docker, Airflow) covering data analysis, pipelines, and machine learning.
 - 🎓 M.S. in Information and Data Science — UC Berkeley
+- 🎓 B.S. in Industrial Engineering — Purdue University
 - 💼 Former Data Scientist II @ TYLin (formerly Sam Schwartz Engineering)
-- 📊 Experienced in Tableau and Microsoft Power BI
+- 📊 Expert with Tableau and Microsoft Power BI
 - 🌱 Currently learning Rust
 - 🐶 Ask me about Mochi
 ---
